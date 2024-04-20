@@ -457,7 +457,7 @@
 			"name": "海外看",
 			"type": 1,
 			"api": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/https://haiwaikan.com/api.php/provide/vod?",
-			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&127.0.0.1:10072=127.0.0.1:10072&url=",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=127.0.0.1:10072&url=",
 			"searchable": 1,
 			"changeable": 1,
 			"categories": [
@@ -500,7 +500,7 @@
 			"name": "ikun",
 			"type": 1,
 			"api": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/https://ikunzyapi.com/api.php/provide/vod/?",
-			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&127.0.0.1:10072=127.0.0.1:10072&url=",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=127.0.0.1:10072&url=",
 			"playerType":1,
 			"searchable": 1,
 			"changeable": 1
